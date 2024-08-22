@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-5-25 12:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+PyCon Kyusyu2024：[「PandasAI：生成AIがデータ分析業務にもたらすパラダイムシフト」](https://speakerdeck.com/negi111111/pycon-kyusyu2024-dot-pptx-1)
