@@ -16,4 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a software engineer who develops web applications and core algorithms related to machine learning. In particular, my research interests are in the fields of Computer Vision and Machine Learning, with a focus on Multi-modal Deep Learning(sensor, image, audio, text...). Love Programming :)
+I am a software engineer specializing in developing web applications and core machine learning algorithms. My research interests lie in the fields of Computer Vision and Machine Learning, with a particular focus on Multi-modal Deep Learning, including sensor, image, audio, and text data. Love Programming :)
+
+I graduated from the University of Electro-Communications with a Bachelor’s degree in Informatics in 2016, and completed my Master’s degree in the same field at the same university in 2018. In the same year, I joined NTT Communications Corporation, where I focused on research and development of time-series data analysis web applications, multi-modal deep learning, and AI talent development. In October 2024, I will begin my doctoral studies at Kyushu University, focusing on pattern recognition, educational data analytics, and the development of educational support systems.
